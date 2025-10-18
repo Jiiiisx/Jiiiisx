@@ -44,3 +44,9 @@
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=jiiiisx&theme=radical" alt="razzy-muflih" />
 </p>
+
+<br/>
+
+<p align="center">
+  <img src="pacman.svg" alt="Pacman" />
+</p>
