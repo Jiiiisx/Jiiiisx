@@ -5,11 +5,10 @@
 
 <br/>
 
-- 🔭 I’m currently working on **[Point Of Interest]**
-- 🌱 I’m currently learning **[AI Enginering]**
-- 🤔 I’m looking for help with **[Artificial Intelligence]**
+- 🌱 I’m currently learning **AI Enginering**
+- 🤔 I’m looking for help with **Artificial Intelligence**
 - 💬 Ask me about **AI, Web Development, and new technologies**
-- 📫 How to reach me: **[razzymuflih5@gmail.com]**
+- 📫 How to reach me: **razzymuflih5@gmail.com**
 
 <br/>
 
@@ -24,7 +23,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> </a>
