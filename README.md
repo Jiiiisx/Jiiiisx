@@ -35,13 +35,6 @@
 
 <br/>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiiiisx&show_icons=true&locale=en&theme=radical" alt="razzy-muflih" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=jiiiisx&theme=radical" alt="razzy-muflih" />
-</p>
 
 <br/>
 
