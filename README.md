@@ -24,7 +24,7 @@
   <tr>
     <td width="60%" valign="top">
       <p>
-        <strong>Razzy</strong> here — an AI and Technology Enthusiast focused on building intelligent solutions, neural networks, and scalable web architectures.
+        <strong>Razzy</strong> here an AI and Technology Enthusiast focused on building intelligent solutions, neural networks, and scalable web architectures.
       </p>
       <p>
         I enjoy turning complex ideas and machine learning concepts into production-ready software with clean code and high performance.
