@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <h1>Hi 🥀, I'm <span style="color: #ff3333;">Muhamad Razzy Muflih</span></h1>
+  <h1>Hi, I'm <span style="color: #ff3333;">Muhamad Razzy Muflih</span></h1>
   <h3>AI Engineer & Tech Enthusiast</h3>
   <p><em>Exploring Artificial Intelligence, Machine Learning, and Modern Web Architectures.</em></p>
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-### 🥀 About Me
+### About Me
 
 <table align="center" width="100%">
   <tr>
@@ -31,10 +31,10 @@
       </p>
       <br/>
       <ul>
-        <li>🌱 Currently mastering: <b>AI Engineering & Deep Learning</b></li>
-        <li>💡 Exploring: <b>Intelligent Agents & Full-Stack Systems</b></li>
-        <li>💬 Ask me about: <b>AI, Web Development, and Tech Innovations</b></li>
-        <li>📫 Contact: <b>razzymuflih5@gmail.com</b></li>
+        <li>Currently mastering: <b>AI Engineering & Deep Learning</b></li>
+        <li>Exploring: <b>Intelligent Agents & Full-Stack Systems</b></li>
+        <li>Ask me about: <b>AI, Web Development, and Tech Innovations</b></li>
+        <li>Contact: <b>razzymuflih5@gmail.com</b></li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-### 🩸 Connect With Me
+### Connect
 
 <p>
   <a href="https://linkedin.com/in/razzy-muflih-313697383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
@@ -69,7 +69,7 @@
 
 <br/>
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p>
   <a href="https://skillicons.dev">
@@ -79,16 +79,19 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jiiiisx&show_icons=true&bg_color=0D1117&title_color=FF3333&icon_color=FF3333&text_color=E6EDF3&border_color=30363D&hide_border=false" alt="GitHub Stats" height="155" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiiiisx&background=0D1117&border=30363D&stroke=FF3333&ring=FF3333&fire=FF3333&currStreakNum=FF3333&sideNums=E6EDF3&currStreakLabel=FF3333&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jiiiisx&show_icons=true&bg_color=0D1117&title_color=FF3333&icon_color=FF3333&text_color=E6EDF3&border_color=30363D&hide_border=false" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiiiisx&background=0D1117&border=30363D&stroke=FF3333&ring=FF3333&fire=FF3333&currStreakNum=FF3333&sideNums=E6EDF3&currStreakLabel=FF3333&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" height="150" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiiiisx&layout=compact&bg_color=0D1117&title_color=FF3333&text_color=E6EDF3&border_color=30363D&hide_border=false" alt="Top Languages" height="150" />
 </p>
 
 <br/>
 
-### 👾 Contribution Graph
+### Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiiiisx/jiiiisx/output/pacman-contribution-graph-dark.svg">
