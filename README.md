@@ -8,12 +8,6 @@
   <h1>Hi, I'm <span style="color: #ff3333;">Muhamad Razzy Muflih</span></h1>
   <h3>AI Engineer & Tech Enthusiast</h3>
   <p><em>Exploring Artificial Intelligence, Machine Learning, and Modern Web Architectures.</em></p>
-
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=Jiiiisx&label=Profile%20Views&color=dc2626&style=flat-square">
-      <img src="https://komarev.com/ghpvc/?username=Jiiiisx&label=Profile%20Views&color=dc2626&style=flat-square" alt="Profile Views" />
-    </a>
-  </p>
 </div>
 
 <br/>
