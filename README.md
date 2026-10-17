@@ -21,12 +21,12 @@
         <strong>Razzy</strong> here an AI and Technology Enthusiast focused on building intelligent solutions, neural networks, and scalable web architectures.
       </p>
       <p>
-        I enjoy turning complex ideas and machine learning concepts into production-ready software with clean code and high performance.
+        I enjoy turning complex ideas and machine learning concepts into production ready software with clean code and high performance.
       </p>
       <br/>
       <ul>
         <li>Currently mastering: <b>AI Engineering & Deep Learning</b></li>
-        <li>Exploring: <b>Intelligent Agents & Full-Stack Systems</b></li>
+        <li>Exploring: <b>Intelligent Agents & FullStack Systems</b></li>
         <li>Ask me about: <b>AI, Web Development, and Tech Innovations</b></li>
         <li>Contact: <b>razzymuflih5@gmail.com</b></li>
       </ul>
