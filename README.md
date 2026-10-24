@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="./header.jpg" width="100%" alt="Header Banner" />
-</div>
-
-<br/>
-
-<div align="center">
   <h1>Hi, I'm <span style="color: #ff3333;">Muhamad Razzy Muflih</span></h1>
   <h3>AI Engineer & Tech Enthusiast</h3>
   <p><em>Exploring Artificial Intelligence, Machine Learning, and Modern Web Architectures.</em></p>
