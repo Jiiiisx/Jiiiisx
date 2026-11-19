@@ -25,9 +25,6 @@
         <li>Contact: <b>razzymuflih5@gmail.com</b></li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="./about.jpg" width="100%" alt="Artwork" />
-    </td>
   </tr>
 </table>
 
