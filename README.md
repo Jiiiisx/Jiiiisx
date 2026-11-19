@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi, I'm <span style="color: #ff3333;">Muhamad Razzy Muflih</span></h1>
-  <h3>Tech Enthusiast</h3>
   <p><em>Exploring Artificial Intelligence, Machine Learning, and Modern Web Architectures.</em></p>
 </div>
 
@@ -10,7 +9,6 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="60%" valign="top">
       <p>
         <strong>Razzy</strong> here an AI and Technology Enthusiast focused on building intelligent solutions, neural networks, and scalable web architectures.
       </p>
@@ -24,7 +22,6 @@
         <li>Ask me about: <b>AI, Web Development, and Tech Innovations</b></li>
         <li>Contact: <b>razzymuflih5@gmail.com</b></li>
       </ul>
-    </td>
   </tr>
 </table>
 
